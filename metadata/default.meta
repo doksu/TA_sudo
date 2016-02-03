@@ -10,6 +10,11 @@ access = read : [ * ], write : [ admin, power ]
 export = system
 
 
+### TAGS
+
+[tags]
+export = system
+
 ### PROPS
 
 [props]
